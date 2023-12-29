@@ -1,0 +1,1 @@
+{ "name": "삼대한의원 인바디", "icons": [ { "src": "INBODY/icon_inbody.png", "sizes": "192x192", "type": "image/png" } ], "start_url": "/", "display": "standalone", "background_color": "#ffffff" }
